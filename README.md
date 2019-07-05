@@ -2,3 +2,4 @@
 first-repository
 
 - kimsangyeon
+- Jeungeuny
